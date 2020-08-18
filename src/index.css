@@ -1,0 +1,24 @@
+body, html {
+    line-height: 1;
+    color: #fff;
+    font-family: NotoSans-Regular,Arial,sans-serif;
+    background-color: #101010;
+    overflow-x: hidden;
+        height: 100%;
+        margin: 0;
+      
+}
+
+.modal-90w60h {
+    width: 70%;
+    height: 50%;
+    max-width: none!important;
+    border: none;
+    background: none;
+}
+
+
+.modal-content {
+    border: none;
+    background: none;
+}

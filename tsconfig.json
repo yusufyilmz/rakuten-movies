@@ -1,0 +1,29 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "rootDir": "./",
+    "noEmit": true,
+    "lib": ["dom", "es2017", "esnext.asynciterable"],
+    "strict": true,
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "esnext",
+    "allowJs": true,
+    "experimentalDecorators": false,
+    "sourceMap": true,
+    "forceConsistentCasingInFileNames": true,
+    "jsx": "preserve",
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": [
+    "node_modules/**"
+  ]
+}
